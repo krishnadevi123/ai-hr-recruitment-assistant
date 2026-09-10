@@ -1,0 +1,27 @@
+Name: Arjun Mehta
+Email: arjun.mehta@email.com
+Phone: +91-9123456780
+
+Summary:
+Software developer with 1 year of experience in backend development. Looking to
+transition into data-focused roles.
+
+Skills:
+- Java, Spring Boot
+- Basic SQL
+- Excel (basic formulas)
+- Git, Jenkins
+- Basic Python knowledge
+
+Experience:
+Software Engineer - CodeWorks Pvt Ltd (1 year)
+- Developed REST APIs using Java Spring Boot
+- Worked with MySQL databases for CRUD operations
+- Participated in Agile sprints
+
+Education:
+B.E. Information Technology, SRM University, 2025
+CGPA: 7.6/10
+
+Certifications:
+- Java Full Stack Development (Udemy)

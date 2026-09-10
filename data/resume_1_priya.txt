@@ -1,0 +1,30 @@
+Name: Priya Sundaram
+Email: priya.sundaram@email.com
+Phone: +91-9876543210
+
+Summary:
+Recent B.Tech Computer Science graduate with strong foundation in data analysis
+and visualization. Completed 2 internships focused on data cleaning and dashboard
+development.
+
+Skills:
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (MySQL, PostgreSQL) - joins, subqueries, window functions
+- Power BI, Tableau
+- Excel - Pivot Tables, VLOOKUP, Macros
+- Basic Machine Learning (scikit-learn)
+- Statistics (hypothesis testing, regression)
+
+Experience:
+Data Analyst Intern - TechCorp Solutions (6 months)
+- Built Power BI dashboards for sales tracking
+- Automated data cleaning pipelines using Python, reducing manual work by 40%
+- Wrote complex SQL queries for reporting
+
+Education:
+B.Tech Computer Science, Anna University, 2026
+CGPA: 8.4/10
+
+Certifications:
+- Google Data Analytics Professional Certificate
+- SQL for Data Science (Coursera)

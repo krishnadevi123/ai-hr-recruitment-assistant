@@ -1,0 +1,22 @@
+Job Title: Junior Data Analyst
+
+About the Role:
+We are looking for a motivated Junior Data Analyst to join our Business Intelligence team.
+The candidate will work on cleaning data, building dashboards, and generating insights
+for stakeholders across the organization.
+
+Required Skills:
+- Python (Pandas, NumPy)
+- SQL (joins, aggregations, window functions)
+- Data Visualization (Power BI or Tableau)
+- Excel (Pivot tables, VLOOKUP)
+- Strong communication and presentation skills
+
+Preferred Skills:
+- Machine Learning basics
+- Statistics fundamentals
+- Experience with cloud platforms (AWS/Azure/GCP)
+
+Experience: 0-2 years
+Education: Bachelor's degree in Computer Science, Statistics, or related field
+Location: Chennai, India (Hybrid)
