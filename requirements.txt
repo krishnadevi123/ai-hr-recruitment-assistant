@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+anthropic>=0.34.0
+scikit-learn>=1.4.0
+pandas>=2.0.0
+plotly>=5.20.0
+pypdf>=4.0.0
+python-docx>=1.1.0
